@@ -24,8 +24,23 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.20320855">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="0.24568966" vertical-offset="0" max-vertical-offset="928">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+=======
+            <state vertical-scroll-proportion="0.20320855">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+>>>>>>> 19f1cfc53f206ba316fd66154e26d4123bdcbce6
+=======
+            <state vertical-scroll-proportion="-0.6785714">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+>>>>>>> c386e3fcbc299a85ffb124aa01eeab01c49a5f64
+>>>>>>> 628dd0ddcaa25a141c04a514e2d6c8b99e14bd8e
               <folding />
             </state>
           </provider>
@@ -34,8 +49,23 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-3.04">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="-1.52" vertical-offset="0" max-vertical-offset="152">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 19f1cfc53f206ba316fd66154e26d4123bdcbce6
+=======
+            <state vertical-scroll-proportion="0.075898804">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> c386e3fcbc299a85ffb124aa01eeab01c49a5f64
+>>>>>>> 628dd0ddcaa25a141c04a514e2d6c8b99e14bd8e
               <folding />
             </state>
           </provider>
@@ -354,24 +384,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-1.52" vertical-offset="0" max-vertical-offset="152">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 19f1cfc53f206ba316fd66154e26d4123bdcbce6
+=======
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+>>>>>>> c386e3fcbc299a85ffb124aa01eeab01c49a5f64
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-3.04">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.24568966" vertical-offset="0" max-vertical-offset="928">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="0.20320855">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+>>>>>>> 19f1cfc53f206ba316fd66154e26d4123bdcbce6
+=======
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+>>>>>>> 628dd0ddcaa25a141c04a514e2d6c8b99e14bd8e
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.20320855">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+=======
+        <state vertical-scroll-proportion="0.075898804">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> c386e3fcbc299a85ffb124aa01eeab01c49a5f64
+>>>>>>> 628dd0ddcaa25a141c04a514e2d6c8b99e14bd8e
           <folding />
         </state>
       </provider>
